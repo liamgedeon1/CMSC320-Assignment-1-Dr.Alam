@@ -12,3 +12,18 @@ Answer: Data science could be applied to all sorts of fields, genuinely all
 fields. One example of a field is the transportation industry. Airlines, trains,
 busses all have tons of data that needs to be tracked, and data science is the 
 most efficent way to do so.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is taking two open branches and combining them. Rebasing is 
+changing the base of your branch from one comitt to another.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I have mainly worked with software engineering and not at all with the 
+data side of things. I hope to branch into the data side at some point in my 
+career as it is in high demand and with all of the different tools to manipulate
+and display data, it is a very intriuging field to me. I am going into this 
+class with no data science experience, so in terms of skills to improve on, it
+is essentially all of them.

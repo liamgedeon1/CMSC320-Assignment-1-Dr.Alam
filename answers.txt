@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: Git is an easy way to share code with others. It allows for multiple 
+people to work on the same project, in this situation it allows students to 
+share their code with their professor for review, and allows you to see 
+multiple variations of code as a project progresses. 

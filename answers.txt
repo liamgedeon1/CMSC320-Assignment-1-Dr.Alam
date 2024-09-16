@@ -1,0 +1,14 @@
+Q1: Why might be consider using git?
+
+Answer: Git is an easy way to share code with others. It allows for multiple 
+people to work on the same project, in this situation it allows students to 
+share their code with their professor for review, and allows you to see 
+multiple variations of code as a project progresses. 
+
+Q2: What field could data science be applied to? Give and Example and how it 
+might help
+
+Answer: Data science could be applied to all sorts of fields, genuinely all 
+fields. One example of a field is the transportation industry. Airlines, trains,
+busses all have tons of data that needs to be tracked, and data science is the 
+most efficent way to do so.
